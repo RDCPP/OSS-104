@@ -2,7 +2,7 @@ OpenSW [Class 10] - Group 4
 ===========================
 각주[1](#footnote_1)
 
-사진<img src="./blue-04-4.jpg"><img width="360" height="240"></img>
+사진<img width="360" height="240"><img src="./blue-04-4.jpg"></img>
  * 6분 발표, 4분 질의응답, 그 후 평가
  
  
