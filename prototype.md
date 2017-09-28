@@ -34,6 +34,6 @@ LGPL(GNU Lesser General Public License)은 GPL과는 달리 사용에 대한 전
 (원본 그대로 사용하면 원본에 대해 링크를 제공하는 것 만으로도 라이선스를 지킬 수 있으나, 수정이나 파생 작업이 이루어지면 수정한 소스까지
 모두 배포해야 하므로 GPL과 다를 바가 없어진다. 때문에 파생 프로그램은 보통 GPL로 배포한다. 또한 일부 라이브러리는 GPL로만 배포하기도 하며, 
 가이드라인 준수 조건하에 이중 라이선스를 적용하기도 한다.)
-라이브러리를 염두에 두고 만들어진 라이선스라서, 초기 LGPL 라이선스의 명칭은 GNU Library General Public License였다.
+라이브러리를 염두에 두고 만들어진 라이선스라서, 초기 LGPL 라이선스의 명칭은 GNU Library General Public License였다..
 
 
