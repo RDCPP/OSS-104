@@ -1,21 +1,4 @@
+
 {
-    "title": "오픈소스란 무엇인가?",
-    "author": "안진성",
     "plugins": ["autocover"],
-    "pluginsConfig": {
-        "autocover": {
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#000000"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#FFFFFF"
-            }
-        }
-    }
 }
