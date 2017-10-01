@@ -1,3 +1,12 @@
+
+{
+    "plugins": ["autocover"],
+    "pluginsConfig": {
+        "autocover": {
+            // Configuration for autocover (see below)
+        }
+    }
+}
 {
     "title": "오픈소스란 무엇인가?",
     "author": "박혜진,안진성,윤재현,이민재",
@@ -15,14 +24,6 @@
             "background": {
                 "color": "#09F"
             }
-        }
-    }
-}
-{
-    "plugins": ["autocover"],
-    "pluginsConfig": {
-        "autocover": {
-            // Configuration for autocover (see below)
         }
     }
 }
