@@ -2,12 +2,6 @@
     "plugins": ["autocover"],
     "pluginsConfig": {
         "autocover": {
-            "title": {
-                "오픈소스란 무엇인가?"
-            },
-            "author": {
-                "박혜진,안진성,윤재현,이민재"
-            },
             "font": {
                 "size": null,
                 "family": "Impact",
