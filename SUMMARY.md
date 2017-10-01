@@ -8,4 +8,5 @@
 * [오픈소스 소프트웨어의 종류](chapter5.md)
 * [오픈소스 하드웨어?](chapter6.md)
 * [오픈소스의 장단점](chapter7.md)
+* [오픈소스 라이선스의 종류](chapter8.md)
 
