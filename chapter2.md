@@ -28,7 +28,7 @@
 
 
 
-&lt;img width="180" height="270" src="./img/리처드 스톨먼.jpg"&gt;&lt;/img&gt; &lt;img width="400" height="225" src="./img/GNU.png"&gt;&lt;/img&gt;
+<img width="180" height="270" src="./img/리처드 스톨먼.jpg"></img> <img width="400" height="225" src="./img/GNU.png"></img>
 
 
 
@@ -44,7 +44,7 @@
 
 
 
-&lt;img width="180" height="270" src="./img/리누스 토발즈.jpg"&gt;&lt;/img&gt; &lt;img width="200" height="120" src="./img/linux.jpg"&gt;&lt;/img&gt;
+<img width="180" height="270" src="./img/리누스 토발즈.jpg"></img> <img width="200" height="120" src="./img/linux.jpg"></img>
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-&lt;img width="400" height="225" src="./img/red hat.png"&gt;&lt;/img&gt;
+<img width="400" height="225" src="./img/red hat.png"></img>
 
 
 
