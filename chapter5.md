@@ -299,7 +299,7 @@ for offline - https://github.com/wikimedia/mediawiki
 
 ### 5-6. OpenTTD/OpenRCT2/freeciv
 
-<img width="400" height="300" src="./img/openttd.jpg"><img width="400" height="300" src="./img/openrct2.jpg"><img width="400" height="300" src="./img/freeciv.jpg">
+<img width="300" height="200" src="./img/openttd.jpg"><img width="300" height="200" src="./img/openrct2.jpg"><img width="300" height="200" src="./img/freeciv.jpg">
 
 [OpenTTD 다운로드 링크](https://www.openttd.org/en/)
 
