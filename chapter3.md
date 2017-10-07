@@ -29,4 +29,3 @@
 ### 3-3. Microsoft에서의 오픈소스 전환
 
   한편 처음에는 오픈 소스 소프트웨어 진영과 대척점에 섰지만, 최근에 .NET을 오픈소스로 공개하기 시작했고 [기사](https://news.microsoft.com/2014/11/12/microsoft-takes-net-open-source-and-cross-platform-adds-new-development-capabilities-with-visual-studio-2015-net-2015-and-visual-studio-online) 그 후 C#을 오픈소스로 전환하였다. IE11과 Edge의 엔진인 차크라코어를 오픈 소스로 풀었다. 또한 Windows10 레드스톤에 우분투 기반 서브시스템, Bash 셸을 탑재하는 등, 오픈 소스 진영에 우호적으로 변하고, 적극적으로 활용하는 변화 양상을 보이고 있다.
-
