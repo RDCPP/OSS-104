@@ -105,7 +105,7 @@ gcc는 GNU Compiler Collection의 약자이다. 이름대로 GNU 프로젝트에
 ------------------
 ### 3-1. Gecko
 
-<img width="150" height="150" src="./img/gecko.png"><img width="150" height="150" src="./img/firefox.jpg"></img>
+<img width="120" height="120" src="./img/gecko.png"><img width="120" height="120" src="./img/firefox.jpg"></img>
 
 [소스코드 다운로드 링크](https://github.com/mozilla/gecko)
 
@@ -115,7 +115,7 @@ Gecko는 Mozilla 재단에서 개발한 웹브라우저 엔진이다. 당시 넷
 
 ### 3-2. Chromium
 
-<img width="150" height="150" src="./img/chromium.jpg"><img width="150" height="150" src="./img/chrome.jpg"><img width="150" height="150" src="./img/opera.jpg"></img>
+<img width="120" height="120" src="./img/chromium.jpg"><img width="120" height="120" src="./img/chrome.jpg"><img width="120" height="120" src="./img/opera.jpg"></img>
 
 [소스코드 다운로드 링크](https://www.chromium.org/developers/how-tos/get-the-code)
 
@@ -125,7 +125,7 @@ Chromium은 구글 크롬의 오픈 소스이다. 상표 등록 등의 문제로
 
 ### 3-3. ChakraCore
 
-<img width="200" height="150" src="./img/edge.png">
+<img width="160" height="120" src="./img/edge.png">
 
 [소스코드 다운로드 링크](https://github.com/Microsoft/ChakraCore)
 
@@ -137,7 +137,7 @@ ChakraCore는 Microsoft Edge의 웹 브라우저 엔진이다. 현재 이 엔진
 -------------
 ### 4-1. Android
 
-<img width="200" height="150" src="./img/android.png">
+<img width="180" height="120" src="./img/android.png">
 
 [소스코드 다운로드 링크](https://source.android.com/)
 
@@ -167,7 +167,7 @@ FreeBSD는 UNIX 계열 OS이다. BSD계열 중 macOS와 iOS다음으로 많이 �
 
 ### 5-1. GIMP
 
-<img width="250" height="150" src="./img/gimp.jpg"></img>
+<img width="200" height="120" src="./img/gimp.jpg"></img>
 
 [다운로드 링크](https://www.gimp.org/)
 
