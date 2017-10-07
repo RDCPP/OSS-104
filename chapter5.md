@@ -169,7 +169,7 @@ FreeBSD는 UNIX 계열 OS이다. BSD계열 중 macOS와 iOS다음으로 많이 �
 
 ### 5-1. GIMP
 
-<img width="400" height="300" src="./img/gimp.jpg"></img>
+<img width="300" height="200" src="./img/gimp.jpg"></img>
 
 [다운로드 링크](https://www.gimp.org/)
 
@@ -183,17 +183,17 @@ GIMP는 GNU Image Manipulation Program의 약자이다. Linux에 최적화 되�
 
 ### 5-2. Facebook
 
-<img width="200" height="200" src="./img/facebook.png">
+<img width="150" height="150" src="./img/facebook.png">
 
 [소스코드 다운로드 링크](https://github.com/facebook)
 
 for offline - https://github.com/facebook
 
-Facebook 또한 오픈소스 소프트웨어이다. 2004년부터 서비스를 시작하여 지금까지 이어오고 있다.ㄴ 상술하였듯이 [Hack](https://github.com/facebook/hhvm/tree/master/hphp/hack)이라는 언어를 개발해서 사용하고 있으며, 현 시점에서도 빠르게 성장하여 미국의 상장기업 중 시가총액 5위에 해당하는 기업이 되었다.
+Facebook 또한 오픈소스 소프트웨어이다. 2004년부터 서비스를 시작하여 지금까지 이어오고 있다. Facebook은 [Hack](https://github.com/facebook/hhvm/tree/master/hphp/hack)이라는 언어를 개발해서 사용하고 있으며, 현 시점에서도 빠르게 성장하여 미국의 상장기업 중 시가총액 5위에 해당하는 기업이 되었다.
 
 ### 5-3. MediaWiki
 
-<img width="200" height="200" src="./img/mediawiki.jpg"><img width="200" height="200" src="./img/wikipedia.jpg">
+<img width="150" height="150" src="./img/mediawiki.jpg"><img width="150" height="150" src="./img/wikipedia.jpg">
 
 [소스코드 다운로드 링크](https://github.com/wikimedia/mediawiki)
 
