@@ -71,9 +71,9 @@ for offline - https://github.com/git/git
 
 Git은 리누스 토발즈가 개발한 분산형 버전 관리 프로그램이다. 토발즈가 리눅스 커널 관리를 위하여 제작하였으며, 속도가 매우 빠르다. 또한 소스 코드를 수정하다가 잘못될 수 있기 때문에 오픈 소스 시대에 최적화된 저장소라고 평가되고 있다. Git은 Microsoft나 Mozilla 재단, 트위터 등 수많은 프로그램이 사용하고 있으며, Git을 호스팅해주는 [GitHub](https://github.com/)는 현재 오픈소스의 중심지로서 자리잡고 있다.
 
-### 2-4. vi(vim)
+### 2-3. vi(vim)
 
-<img width="180" height="180" src="./img/vim.png"><img width="500" height="320" src="./img/gvim.jpg"></img>
+<img width="150" height="150" src="./img/vim.png"><img width="350" height="250" src="./img/gvim.jpg"></img>
 
 (우측 사진은 GUI 기반의 vi(vim)에디터인 givm 이다.)
 
@@ -87,9 +87,9 @@ for offline - https://github.com/vim/vim
 
 vi(vim)은 UNIX계열부터 사용되는 텍스트 에디터의 한 종류이다. Linux 기반 운영체제에서는 기본적으로 설치되어 있는 텍스트 에디터이기도하다. vi(vim)은 초보자가 사용하기 힘든 인터페이스를 가지고 있으나, 숙달되면 vi(vim)은 손동작 횟수가 줄어들기 때문에 다른 에디터에 비해서 빠른 속도로 작업할 수 있다는 장점을 가지고 있다. 또한 커스터마이징이 쉽고 오랫동안 사용된 에디터이기에 유용한 플러그인이 많이 존재한다.
 
-### 2-5. gcc
+### 2-4. gcc
 
-<img width="200" height="200" src="./img/gcc.png"></img>
+<img width="150" height="150" src="./img/gcc.png"></img>
 
 [다운로드 링크](https://gcc.gnu.org/install/)
 
