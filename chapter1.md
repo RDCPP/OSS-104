@@ -2,7 +2,7 @@
 
 최근 오픈소스를 사용하거나 공유하는 기업체나 개인이 많아졌다. 이렇게 각광받는 오픈소스는 구체적으로 무엇인지 알아보도록 하자.
 
-<img width="300" height="200" src="./img/meanless.jpg"></img>
+<img width="150" height="100" src="./img/meanless.jpg"></img>
 
 History of the OSI 자료에 따르면 그 어원이 1998년 2월 3일에 넷스케이프 브라우저의 원시코드에 대해 어떠한 형태로 공개해야 하는가에 대한 전략회의에서 
 붙여졌다고 한다. 그리고 오픈소스의 [사전적정의](https://ko.wikipedia.org/wiki/%EC%98%A4%ED%94%88_%EC%86%8C%EC%8A%A4)는─소프트웨어 혹은 하드웨어 
