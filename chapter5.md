@@ -4,7 +4,7 @@
 -------------------
 ### 1-1. Python
 
-<img width="300" height="180" src="./img/python.png"></img>
+<img width="250" height="150" src="./img/python.png"></img>
 
 [소스코드 다운로드 링크](https://www.python.org/downloads/source/)
 
@@ -30,7 +30,7 @@ HTML은 Hyper Text Mark-up Language의 약자이며, 이름에서 보듯이 대�
 
 ### 1-7. C#
 
-<img width="180" height="180" src="./img/cp.png"></img>
+<img width="150" height="150" src="./img/cp.png"></img>
 
 [소스코드 다운로드 링크](https://opensource.microsoft.com/?keyword=C%23)
 
@@ -73,9 +73,7 @@ Git은 리누스 토발즈가 개발한 분산형 버전 관리 프로그램이�
 
 ### 2-3. vi(vim)
 
-<img width="150" height="150" src="./img/vim.png"><img width="350" height="250" src="./img/gvim.jpg"></img>
-
-(우측 사진은 GUI 기반의 vi(vim)에디터인 givm 이다.)
+<img width="150" height="150" src="./img/vim.png"><img width="300" height="200" src="./img/gvim.jpg"></img>
 
 [다운로드 링크](https://vim.sourceforge.io/download.php)
 
@@ -150,7 +148,7 @@ Android는 Linux 커널을 기반으로 제작된 모바일 플랫폼의 운영�
 
 ### 4-3. FreeBSD
 
-<img width="200" height="200" src="./img/freebsd.jpg"></img>
+<img width="150" height="150" src="./img/freebsd.jpg"></img>
 
 [다운로드 링크](https://www.freebsd.org/)
 
@@ -169,7 +167,7 @@ FreeBSD는 UNIX 계열 OS이다. BSD계열 중 macOS와 iOS다음으로 많이 �
 
 ### 5-1. GIMP
 
-<img width="300" height="200" src="./img/gimp.jpg"></img>
+<img width="250" height="150" src="./img/gimp.jpg"></img>
 
 [다운로드 링크](https://www.gimp.org/)
 
