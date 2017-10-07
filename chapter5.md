@@ -73,7 +73,7 @@ Git은 리누스 토발즈가 개발한 분산형 버전 관리 프로그램이�
 
 ### 2-4. vi(vim)
 
-<img width="180" height="180" src="./img/vim.png"> <img width="600" height="400" src="./img/gvim.jpg"></img>
+<img width="180" height="180" src="./img/vim.png"><img width="500" height="320" src="./img/gvim.jpg"></img>
 
 (우측 사진은 GUI 기반의 vi(vim)에디터인 givm 이다.)
 
@@ -107,7 +107,7 @@ gcc는 GNU Compiler Collection의 약자이다. 이름대로 GNU 프로젝트에
 ------------------
 ### 3-1. Gecko
 
-<img width="150" height="150" src="./img/gecko.png"></img><img width="150" height="150" src="./img/firefox.jpg"></img>
+<img width="150" height="150" src="./img/gecko.png"><img width="150" height="150" src="./img/firefox.jpg"></img>
 
 [소스코드 다운로드 링크](https://github.com/mozilla/gecko)
 
